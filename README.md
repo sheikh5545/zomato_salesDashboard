@@ -17,7 +17,7 @@ This project involves the development of a Sales Data Management System using SQ
 - **Power BI**: Data visualization and dashboard creation.
 
 ## Key Achievements
-- **Data Analysis**: Analyzed data exceeding 100,000 records to identify trends and patterns.
+- **Data Analysis**: Analyzed data exceeding 10,000 records to identify trends and patterns.
 - **Collaboration**: Worked with a team of 1-2 members to identify business needs and provide data-driven solutions.
 - **Data Accuracy**: Enhanced data accuracy by 20% through data manipulation and validation techniques.
 - **Dashboard Creation**: Developed a Power BI dashboard to visualize Zomato sales performance and key metrics.
